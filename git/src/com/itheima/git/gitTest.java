@@ -6,4 +6,8 @@ public class gitTest {
 
         System.out.println("gitTest2");
     }
+
+    public void show(){
+        System.out.println("gitTest3 new insert");
+    }
 }
