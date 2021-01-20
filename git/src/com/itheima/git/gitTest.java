@@ -10,4 +10,8 @@ public class gitTest {
     public void show(){
         System.out.println("gitTest3 new insert");
     }
+
+    public void show2(){
+        System.out.println("gitTest4 modify insert");
+    }
 }
