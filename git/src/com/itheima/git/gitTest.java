@@ -15,6 +15,10 @@ public class gitTest {
         System.out.println("gitTest4 modify insert");
     }
 
+    //测试分支代码++
+    public void testShow1() {
+        System.out.println("gitTest4 show");
+    }
 
 
 
