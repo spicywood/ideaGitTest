@@ -22,4 +22,8 @@ public class gitTest {
     public void show4() {
         System.out.println("gitTest4 branches test");
     }
+
+    public void show5() {
+        System.out.println("gitTest4 branches test2");
+    }
 }
