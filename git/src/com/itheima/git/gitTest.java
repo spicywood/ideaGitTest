@@ -18,4 +18,8 @@ public class gitTest {
     public void show3(){
         System.out.println("gitTest5 conflict");
     }
+
+    public void show4() {
+        System.out.println("gitTest4 modify insert2");
+    }
 }
