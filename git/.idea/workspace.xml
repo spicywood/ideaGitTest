@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5112d0c1-5e98-46ba-a5b9-448c0f557abb" name="Default Changelist" comment="首次测试idea的git">
+      <change afterPath="$PROJECT_DIR$/../Ajax&amp;Json/Ajax&amp;Json.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootstrapTest/BootstrapTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cookie/Cookie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Filter&amp;Listener/Filter&amp;Listener.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC2/JDBC2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_Test/JDBC_Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPS/JPS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSP_MVC/EL&amp;JSTL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaLearning1/JavaLearning1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaRevision/JavaRevision.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jedis/Jedis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/LeetCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login_Test/Login_Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven_Java/Maven_Java/Maven_Java/Maven_Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven_Java/Maven_Java/Maven_Java2/Maven_Java2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven_Java/Maven_Java/Maven_Java2/src/main/java/.idea/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven_Java/Maven_Java/com.itheima/Maven_Web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis/MyBatis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_batis/My_batis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_batis02/My_batis02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_batis03/My_batis03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/Redis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Response/Response.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Revision/Revision.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servlet/Servlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletStep2/ServletStep2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session/Session.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_JDBC/Spring_JDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xml_Test/Xml_Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStructureAndAlgorithm/dataStructureAndAlgorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01Spring02/day01Spring02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01Spring04/day01Spring04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01SpringMVC01new/day01SpringMVC01start/day01SpringMVC01start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01_eesy_04mybatis_design/day01_eesy_04mybatis_design.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01spring03/day01spring03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02MyBatis/day02MyBatis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02Mybatis02/day02Mybatis02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02Spring/day02Spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02Spring02_XML_IOC/day02Spring02_XML_IOC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02Spring03accountAnnoIoc/day02Spring03accountAnnoIoc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02Spring04account_Anno_Ion_without_xml/day02Spring04account_Anno_Ion_without_xml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02SpringMVC021response/day02SpringMVC021response/day02SpringMVC021response.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02SpringMVC022fileUpload/day02SpringMVC022fileUpload.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02SpringMVC023fileReceive/day02SpringMVC023fileReceive.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02SpringMVC032intercepter/day02SpringMVC03intercepter/day02SpringMVC03interceptor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02SpringMVC03exception/day02SpringMVC03exception.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03MyBatis03/day03MyBatis03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03Mybatis/day03Mybatis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03_eesy_03one2many/day03_eesy_03one2many.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03spring01account/day03spring01account.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03spring03AOC/day03spring03AOC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03spring03adviceType/day03spring03adviceType.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04MyBatis/day04MyBatis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04MyBatis02/day04MyBatis02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04MyBatis03annotation/day04MyBatis03annotation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04Mybatis04annoOne2Many/day04Mybatis04annoOne2Many.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04spring01JdbcTemplate/day04spring01JdbcTemplate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04spring05tx_xml/day04spring05tx_xml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04spring06tx_annotation/day04spring06tx_annotation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04spring_day03homework/day04spring_day03homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04spring_day03homework2/day04spring_day03homework2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04srping07anno_tx/day04srping07anno_tx_withoutxml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ideaGit/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ideaGit/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ideaGit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ideaGit/ideaGit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/git/com/itheima/git/gitTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jQuery/jQuery.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jQuery高级/jQuery高级.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven02/maven02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven_day02_1/maven_day02_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven_day02_parent/maven_day02_dao/maven_day02_dao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven_day02_parent/maven_day02_parent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven_day02_parent/maven_day02_service/maven_day02_service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven_day02_parent/maven_day02_web/maven_day02_web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomcat&amp;Servlet_Test/tomcat&amp;Servlet_Test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaGit/git/src/com/itheima/git/gitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ideaGit/git/src/com/itheima/git/gitTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\Learning_Test\git\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\maven_repository\maven_repository" />
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.5.2-bin/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.5.2-bin\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1nHysWd8bduR30zHa8GRhALB4tI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="gitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.git.gitTest" />
+      <module name="git" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.git.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.gitTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5112d0c1-5e98-46ba-a5b9-448c0f557abb" name="Default Changelist" comment="" />
+      <created>1611061517609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611061517609</updated>
+      <workItem from="1611061519679" duration="1941000" />
+      <workItem from="1611121360003" duration="6685000" />
+    </task>
+    <task id="LOCAL-00001" summary="首次测试idea的git">
+      <created>1611062013145</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611062013145</updated>
+    </task>
+    <task id="LOCAL-00002" summary="首次测试idea的git">
+      <created>1611120614697</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611120614697</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第三次测试idea的git推送">
+      <created>1611122142363</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611122142363</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="E:/myGit/gitTest_java" />
+    </ignored-roots>
+    <MESSAGE value="首次测试idea的git" />
+    <MESSAGE value="第三次测试idea的git推送" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三次测试idea的git推送" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="180" key="#Project_Structure" timestamp="1611061532200">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="180" key="#Project_Structure/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1611061532200" />
+    <state x="562" y="118" key="CommitChangelistDialog2" timestamp="1611122140315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="562" y="118" key="CommitChangelistDialog2/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1611122140315" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1611124843153">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1611124843153" />
+    <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1611821662941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1611821662941" />
+    <state x="583" y="221" key="NewModule_or_Project.wizard" timestamp="1611822078224">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="583" y="221" key="NewModule_or_Project.wizard/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1611822078224" />
+    <state x="810" y="230" key="RollbackChangesDialog" timestamp="1611061919097">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="810" y="230" key="RollbackChangesDialog/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1611061919097" />
+    <state x="455" y="163" key="SettingsEditor" timestamp="1611121303172">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="455" y="163" key="SettingsEditor/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1611121303172" />
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1611122307283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1611122307283" />
+    <state x="824" y="255" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1611122065518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="824" y="255" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1611122065518" />
+  </component>
+</project>
