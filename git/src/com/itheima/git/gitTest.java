@@ -14,4 +14,8 @@ public class gitTest {
     public void show2(){
         System.out.println("gitTest4 modify insert");
     }
+
+    public void show3(){
+        System.out.println("gitTest5 conflict2");
+    }
 }
