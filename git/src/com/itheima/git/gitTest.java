@@ -27,7 +27,7 @@ public class gitTest {
         System.out.println("gitTest4 branches test2");
     }
 
-    public void show4() {
+    public void show6() {
         System.out.println("gitTest4 modify insert2");
     }
 }
