@@ -19,15 +19,25 @@ public class gitTest {
 
 
 
-    public void show4() {
-        System.out.println("gitTest4 branches test");
-    }
 
-    public void show5() {
-        System.out.println("gitTest4 branches test2");
-    }
 
-    public void show4() {
-        System.out.println("gitTest4 modify insert2");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    //测试分支代码++
+    public void testShow1() {
+        System.out.println("gitTest4 show");
     }
 }
