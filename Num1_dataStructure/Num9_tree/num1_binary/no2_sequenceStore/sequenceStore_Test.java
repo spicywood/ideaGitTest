@@ -1,0 +1,12 @@
+package Num1_dataStructure.Num9_tree.num1_binary.no2_sequenceStore;
+
+public class sequenceStore_Test {
+    public static void main(String[] args) {
+        int[] arr = {1,2,3,4,5,6,7};
+        ArrBinaryTree tree = new ArrBinaryTree(arr);
+        tree.preOrder();
+
+    }
+
+
+}
